@@ -1,7 +1,7 @@
 Package: oddnet
 Type: Package
 Title: Anomaly Detection in Temporal Networks
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Sevvandi", "Kandanaarachchi", email = "sevvandik@gmail.com",
     role = c("aut", "cre"), comment = c(ORCID = "0000-0002-0337-0395")),
     person("Rob", "Hyndman", email = "rob.hyndman@monash.edu",
@@ -23,9 +23,9 @@ Suggests: DDoutlier, feasts, knitr, rmarkdown, rTensor, urca
 VignetteBuilder: knitr
 URL: https://sevvandi.github.io/oddnet/
 NeedsCompilation: no
-Packaged: 2022-12-21 22:04:39 UTC; kan092
+Packaged: 2024-02-11 11:44:19 UTC; kan092
 Author: Sevvandi Kandanaarachchi [aut, cre]
     (<https://orcid.org/0000-0002-0337-0395>),
   Rob Hyndman [aut] (<https://orcid.org/0000-0002-2140-5352>)
 Repository: CRAN
-Date/Publication: 2022-12-22 20:10:01 UTC
+Date/Publication: 2024-02-11 12:20:02 UTC
